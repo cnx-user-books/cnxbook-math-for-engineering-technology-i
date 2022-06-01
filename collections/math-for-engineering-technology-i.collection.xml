@@ -1,0 +1,268 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col31990</md:content-id>
+  <md:title>Math for Engineering &amp; Technology I</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>60854bd9-6544-4c2c-8f82-4db5ce158700</md:uuid>
+<md:slug>math-for-engineering-technology-i</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Functions and Graphs</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53477"/>
+        
+      
+    
+    
+      <col:module document="m53478"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Limits</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53485"/>
+        
+      
+    
+    
+      <col:module document="m53491"/>
+        
+      
+    
+    
+      <col:module document="m53492"/>
+        
+      
+    
+    
+      <col:module document="m53489"/>
+        
+      
+    
+    
+      <col:module document="m53493"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Derivatives</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53495"/>
+        
+      
+    
+    
+      <col:module document="m53573"/>
+        
+      
+    
+    
+      <col:module document="m53575"/>
+        
+      
+    
+    
+      <col:module document="m53576"/>
+        
+      
+    
+    
+      <col:module document="m53581"/>
+        
+      
+    
+    
+      <col:module document="m53585"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Applications of Derivatives</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53604"/>
+        
+      
+    
+    
+      <col:module document="m53605"/>
+        
+      
+    
+    
+      <col:module document="m53611"/>
+        
+      
+    
+    
+      <col:module document="m53613"/>
+        
+      
+    
+    
+      <col:module document="m53596"/>
+        
+      
+    
+    
+      <col:module document="m53614"/>
+        
+      
+    
+    
+      <col:module document="m53619"/>
+        
+      
+    
+    
+      <col:module document="m53620"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Integration</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53621"/>
+        
+      
+    
+    
+      <col:module document="m53624"/>
+        
+      
+    
+    
+      <col:module document="m53631"/>
+        
+      
+    
+    
+      <col:module document="m53632"/>
+        
+      
+    
+    
+      <col:module document="m53633"/>
+        
+      
+    
+    
+      <col:module document="m53634"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Applications of Integration</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53640"/>
+        
+      
+    
+    
+      <col:module document="m53642"/>
+        
+      
+    
+    
+      <col:module document="m53643"/>
+        
+      
+    
+    
+      <col:module document="m53644"/>
+        
+      
+    
+    
+      <col:module document="m53648"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
